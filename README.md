@@ -1,0 +1,1 @@
+# Inverse-Kinematics-and-Simscape-Modeling-for-a-Puma-Robot
